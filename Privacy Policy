@@ -1,0 +1,41 @@
+Blueline Protection – Privacy Policy
+Last Updated: 12/11/2025
+
+1. Data We Collect  
+The Bot may collect and store the following information:  
+• Discord server IDs  
+• Channel and role IDs selected during setup  
+• Moderation logs (warnings, kicks, bans, timeouts, etc.)  
+• User-provided verification data  
+• Basic metadata required for licensing validation  
+
+2. How Data Is Used  
+Data is used solely to provide Bot features, including:  
+• Moderation logging  
+• Verification processing  
+• Anti-spam and raid protection  
+• License validation  
+• Configuration storage  
+
+3. How Data Is Stored  
+All data is stored securely on private infrastructure accessible only to the Bot owner.
+
+4. Data Sharing  
+We do not sell, rent, or share any user data.  
+Data is not shared with third parties unless required by law.
+
+5. User Rights  
+Users may request:  
+• Removal of stored moderation logs  
+• Removal of verification data  
+• Clarification of what data is stored on their server  
+Requests can be submitted to: Discord @korzak
+
+6. Data Retention  
+Data may be kept as long as the Bot remains in the server or as long as required for licensing enforcement.
+
+7. Children  
+The Bot does not target users under 13 and follows Discord’s minimum age requirements.
+
+8. Changes to This Policy  
+We may update this Policy at any time. Continued use of the Bot indicates acceptance of updates.
